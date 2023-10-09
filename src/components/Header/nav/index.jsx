@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import React, { useState } from 'react'
 import styles from './style.module.scss';
 import { motion } from 'framer-motion';

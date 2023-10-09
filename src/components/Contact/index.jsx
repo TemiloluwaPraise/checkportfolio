@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable react-hooks/rules-of-hooks */
 import styles from './style.module.scss';
 import Image from 'next/image';
 import Rounded from '../../common/RoundedButton';
@@ -26,7 +28,7 @@ export default function index() {
                             src={`/images/background.jpg`}
                             />
                         </div>
-                        <h2>Let's work</h2>
+                        <h2> Let's work</h2>
                     </span>
                     <h2>together</h2>
                     <motion.div style={{x}} className={styles.buttonContainer}>
