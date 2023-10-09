@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 'use client'
 import Image from 'next/image'
 import styles from './style.module.scss'

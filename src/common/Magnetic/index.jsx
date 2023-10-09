@@ -22,7 +22,7 @@ export default function index({children}) {
             xTo(0);
             yTo(0)
         })
-    }, [])
+    }, [children])
 
     return (
         React.cloneElement(children, {ref:magnetic})
