@@ -24,8 +24,8 @@ const projects = [
     color: "#EFE8D3"
   },
   {
-    title: "Silencio",
-    src: "silencio.png",
+    title: "The Artistry",
+    src: "ta.jpg",
     color: "#706D63"
   }
 ]
