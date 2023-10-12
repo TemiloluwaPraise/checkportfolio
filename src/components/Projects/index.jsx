@@ -14,18 +14,18 @@ const projects = [
     color: "#000000"
   },
   {
-    title: "FCMB",
-    src: "fcmb.jpg",
+    title: "EAGLES TOUR GUIDES",
+    src: "eagles.jpg",
     color: "#8C8C8C"
   },
   {
-    title: "Tech TRYBE",
-    src: "techtrybe.jpg",
+    title: "DAIRO'S ARTISTRY",
+    src: "dairo.jpg",
     color: "#EFE8D3"
   },
   {
-    title: "The Artistry",
-    src: "ta.jpg",
+    title: "CHINI'S CONCIERGE",
+    src: "tresh.jpg",
     color: "#706D63"
   }
 ]
